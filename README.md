@@ -2,17 +2,14 @@
 
 ## About
 
-***Instructors should see the Instructor Guide for more configuration details.***
-
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+This module focuses on the fundamentals of Java - classes, objects, function, and handling data. 
+The project for this module is the creation of dictionary application that can store dictionary entries and be manipulated by the user. 
 
 ## Prerequisites
 
-tktk What are the prerequisites of this project?
+Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and objects, handle exceptions, and debug in Java. 
 
 ## Content
-
-tktk Make a copy of the Project Requirements document linked in Google Sheets doc inside the same folder it is in now. Once you have a new URL, replace the one below. Modify the document as necessary. You may need to add or remove sections. Once you have finalized your work on the Project Requirements document in Google Sheets, download it as a PDF, name the file `project-requirements.pdf`, and add it to the `/project-requirements/assets` directory.
 
 [Project Journey](./project-journey/README.md)
 
@@ -24,9 +21,9 @@ tktk Make a copy of the Project Requirements document linked in Google Sheets do
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
-[tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
-[tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/17HhGcgTn9zY96FJj175uCGhaHccnA7KUDx_6Bi3xT9k/edit)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1zvltopgi4TS0ihJu8-0Nzcqk1BRykMWYRbEteh32-Q0/edit?usp=sharing)
 
 ## Internal resources
 

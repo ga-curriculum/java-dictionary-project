@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Details](./assets/hero.png)
+# ![[Module Name] - Project Details](./assets/hero.png)
 
 ## Notes and guidance
 
@@ -21,7 +21,6 @@ Your instructor team will provide guidelines for reaching out for help during pr
 
 You will have a maximum of 5 minutes to present your project. While the structure and content of your presentation are ultimately up to you, here are some potential ideas and topics to cover:
 
-- Discuss the app. Including details about why you chose the app is a nice touch.
 - Use the app! Demo its features, such as CRUD.
 - Briefly show off something unique in your code or a piece of code you're particularly proud of.
 - Share your experience with the project - what was challenging, what did you gain from building this project?
