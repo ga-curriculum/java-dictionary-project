@@ -47,21 +47,16 @@ Additionally, you must implement at least four of the features from the followin
 - Users can add additional definitions (secondary, tertiary, etc.) to a word in the dictionary.
 - Users can see an alphabetically sorted list of all the words in the dictionary.
 
-### Code convention
+### Code convention and UI/UX
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
 - The files in the app are organized following the conventions demonstrated in lectures.
-- The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
+- The code in the app adheres to coding conventions demonstrated in lectures, like using plural names for arrays.
 - The app does not contain dead code, commented-out sections, or console logs.
 - The app is appropriately broken down into classes and functions with distinct roles.
 - The app can be used without encountering errors and handles errors using the conventions demonstrated in lectures.
 - The app is coded using proper indentation.
-
-### UI/UX
-
-> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade. Your app must fulfill the below requirements.
-
 - The app's menu is easily navigable by a first-time user.
 
 ### Git and GitHub
