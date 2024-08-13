@@ -5,7 +5,7 @@
 
 ## Introduction
 
-When you've completed your project, you'll deploy it so that others are able to download and run it!
+When you've completed your project, you'll deploy it so that others can download and run it!
 
 ## Guide
 

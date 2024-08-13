@@ -28,7 +28,7 @@ A printable version of the project requirements can be found [here](./assets/pro
   - Add new words and definitions to the dictionary.
   - Remove words and their definitions from the dictionary.
   - Conduct a search to find a word in the dictionary and display its definition.
-  - Update the definition of word in the dictionary.
+  - Update the definition of a word in the dictionary.
   - Gracefully close the application.
 
 ## Additional MVP requirements
@@ -53,7 +53,7 @@ Additionally, you must implement at least four of the features from the followin
 - The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
 - The app does not contain dead code, commented-out sections, or console logs.
 - The app is appropriately broken down into classes and functions with distinct roles.
-- The app can be used without encountering errors, and appropriately uses error handling.
+- The app can be used without encountering errors and handles errors using the conventions demonstrated in lectures.
 - The app is coded using proper indentation.
 
 ### UI/UX
@@ -74,10 +74,10 @@ Additionally, you must implement at least four of the features from the followin
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your project's README must contain the items or sections below.
 
-- The App's name.
+- The app's name.
 - A brief description of your app and its functionality.
 - A *Getting started* section. This section should include instructions on how to download and use your app.
-- A *Technologies used* section. This section should list the principal technologies used by your application, for example: Java and any major frameworks or libraries.
+- A *Technologies used* section. This section should list the principal technologies used by your application, for example, Java and any major frameworks or libraries.
 - If necessary, an *Attributions* section. This section should include links to any external resources (such as libraries or assets) you used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
 
 ## Evaluation
