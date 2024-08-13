@@ -9,23 +9,30 @@ projectJourney = new Template.Microlesson {
   videoUrl = ""
 }
 
-projectRequirements = new Template.Microlesson {
-  friendlyName = "Project Requirements"
+projectRequirementsAndGuidance = new Template.Microlesson {
+  friendlyName = "Project Requirements and Guidance"
   dirName = "project-requirements-and-guidance"
   type = "Content"
   videoUrl = ""
 }
 
-projectDetails = new Template.Microlesson {
-  friendlyName = "Project Details"
-  dirName = "project-details"
+projectGitHubRepoLinkDeliverable = new Template.Microlesson {
+  friendlyName = "Project GitHub Repo Link Deliverable"
+  dirName = "project-github-repo-link-deliverable"
   type = "Content"
   videoUrl = ""
 }
 
-projectDeliverables = new Template.Microlesson {
-  friendlyName = "Project Deliverables"
-  dirName = "project-deliverables"
+projectDeployedAppLinkDeliverable = new Template.Microlesson {
+  friendlyName = "Project Deployed App Link Deliverable"
+  dirName = "project-deployed-app-link-deliverable"
+  type = "Content"
+  videoUrl = ""
+}
+
+projectRequirementsPdf = new Template.Microlesson {
+  friendlyName = "Project Requirements PDF"
+  dirName = "project-requirement-and-guidance/assets/project-requirements.pdf"
   type = "Content"
   videoUrl = ""
 }

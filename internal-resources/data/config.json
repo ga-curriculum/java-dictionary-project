@@ -20,32 +20,38 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Project Requirements",
+          "friendlyName": "Project Requirements and Guidance",
           "dirName": "project-requirements-and-guidance",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Project Details",
-          "dirName": "project-details",
+          "friendlyName": "Project GitHub Repo Link Deliverable",
+          "dirName": "project-github-repo-link-deliverable",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Project Deliverables",
-          "dirName": "project-deliverables",
+          "friendlyName": "Project Deployed App Link Deliverable",
+          "dirName": "project-deployed-app-link-deliverable",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Project Requirements PDF",
+          "dirName": "project-requirement-and-guidance/assets/project-requirements.pdf",
           "type": "Content",
           "videoUrl": ""
         }
       ],
       "isHeaderShown": true,
-      "isHeaderModuleNavShown": false,
+      "isHeaderModuleNavShown": true,
       "isHeaderHomeNavShown": true,
       "isHeaderMicrolessonNavShown": true,
       "isHeaderNavSettingsShown": true,
       "isFooterShown": true,
       "isFooterCopyrightShown": true,
-      "isFooterLessonNavShown": false,
+      "isFooterLessonNavShown": true,
       "isStickyNavSettingShown": true,
       "isStickyNavAllowed": true,
       "isFixedNavAllowed": true,

@@ -11,9 +11,7 @@ This project focuses on the fundamentals of Java - classes, objects, functions, 
 
 [Project Journey](./project-journey/README.md)
 
-[Project Requirements](./project-requirements-and-guidance/README.md)
-
-[Project Details](./project-details/README.md)
+[Project Requirements and Guidance](./project-requirements-and-guidance/README.md)
 
 [Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
 
@@ -21,9 +19,11 @@ This project focuses on the fundamentals of Java - classes, objects, functions, 
 
 [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
 
-[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1PJYKRzqvlUdkDVf5Ls1r-iNEOIMCapbeRBZWKdOsEcI/edit)
-
 ## Internal
+
+### Content
+
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1PJYKRzqvlUdkDVf5Ls1r-iNEOIMCapbeRBZWKdOsEcI/edit)
 
 ### Prerequisites
 
