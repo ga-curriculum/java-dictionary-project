@@ -28,7 +28,8 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Users can see a history of past user actions taken in the app.
 - Users can gracefully close the application.
 - When a word is added to the dictionary, the app saves the new word and definition to a data file.
-- When an existing word is updated the app saves the updated data back to the data file, replacing the old data.
+- When an existing word is updated, the app saves the updated data back to the data file, replacing the old data.
+- When an existing word is deleted, the app removes the word and its definition data from the data file.
 - When launched, the app loads the data file containing the word information into memory.
 - Unit tests should exist for each piece of functionality present in the app.
 - The GitHub repo contains a runnable JAR file that allows users to download and use the project.
