@@ -5,7 +5,7 @@
 
 ## Overview
 
-The goal of this project is to build a console-based dictionary application that allows users to perform various operations on a dictionary of words and their definitions. The application will utilize foundational Java concepts, such as data types, variables, control flow, loops, methods, scopes, arrays, ArrayLists, object-oriented programming (OOP), exception handling, and file I/O.
+The goal of this project is to build a console-based dictionary application that allows users to perform various operations on a dictionary of words and their definitions. The application will utilize foundational Java concepts, such as data types, variables, control flow, loops, methods, scopes, arrays, ArrayLists, object-oriented programming (OOP), exception handling, file I/O, and test-driven development.
 
 The dictionary application will be a command-line interface (CLI) program that runs in the console without a graphical user interface (GUI). Users will interact with the application by typing commands and receiving text-based output.
 
@@ -21,15 +21,17 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will result in the project receiving a failing grade. Your app must fulfill the below requirements.
 
-- The app loads a dictionary from a data file containing word information.
-- The app saves the updated dictionary back to the data file when changes are made.
+- Users can add new words and definitions to the dictionary.
+- Users can update the definition of a word in the dictionary.
+- Users can delete a word and its definitions from the dictionary.
+- Users can conduct a search to find a word in the dictionary and display its definition.
+- Users can see a history of past user actions taken in the app.
+- Users can gracefully close the application.
+- When a word is added to the dictionary, the app saves the new word and definition to a data file.
+- When an existing word is updated the app saves the updated data back to the data file, replacing the old data.
+- When launched, the app loads the data file containing the word information into memory.
+- Unit tests should exist for each piece of functionality present in the app.
 - The GitHub repo contains a runnable JAR file that allows users to download and use the project.
-- Allow users to do the following:
-  - Add new words and definitions to the dictionary.
-  - Remove words and their definitions from the dictionary.
-  - Conduct a search to find a word in the dictionary and display its definition.
-  - Update the definition of a word in the dictionary.
-  - Gracefully close the application.
 
 ## Additional MVP requirements
 
@@ -43,7 +45,6 @@ Additionally, you must implement at least four of the features from the followin
 - Users can conduct a search to find all the words in the dictionary where the definition contains a given string.
 - Users can add additional definitions (secondary, tertiary, etc.) to a word in the dictionary.
 - Users can see an alphabetically sorted list of all the words in the dictionary.
-- Users can see a history of past user actions taken in the app.
 
 ### Code convention
 
