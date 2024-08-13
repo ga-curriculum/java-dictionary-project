@@ -1,19 +1,8 @@
-# ![Release Notes](../assets/release-notes.png)
+<h1>
+  <span class="headline">Java Dictionary Project</span>
+  <span class="subhead">Release Notes</span>
+</h1>
 
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy [tktk previous project name] project and provides some other minor updates detailed below.
-
-### Release details
-
-#### Additions
-
-
-
-#### Changes
-
-
-
-#### Removals
-
-
+This is brand new project content!

@@ -1,10 +1,11 @@
-# ![Java dictionary application - Project GitHub Repo Link Deliverable](./assets/hero.png)
+<h1>
+  <span class="headline">Java Dictionary Project</span>
+  <span class="subhead">Project GitHub Repo Link Deliverable</span>
+</h1>
 
 ## Introduction
 
-After your project proposal has been approved, you'll need to set up a GitHub repo for your project.
-
-> 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
+Set up a ***public*** GitHub repo that you'll use for your project.
 
 ## Submitting your GitHub repo link
 

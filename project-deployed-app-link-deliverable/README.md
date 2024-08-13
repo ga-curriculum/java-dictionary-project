@@ -1,22 +1,25 @@
-# ![[Java Dictionary Application] - Project Deployed App Link Deliverable](./assets/hero.png)
+<h1>
+  <span class="headline">Java Dictionary Project</span>
+  <span class="subhead">Project Deployed App Link Deliverable</span>
+</h1>
 
 ## Introduction
 
-During project week, you'll deploy your project so that others are able to use it on the internet! 
+When you've completed your project, you'll deploy it so that others are able to download and run it!
 
 ## Guide
 
 How to create a JAR file with IntelliJ Idea:
 
-Click File -> Project Structure
-Navigate to Artifacts under Project Settings
-Click "+"
-Select JAR -> Choose "From modules with Dependencies"
-Select your Main class
-Click OK
-Click Build -> Build Artifacts
-Click Build
+1. Click File -> Project Structure
+2. Navigate to Artifacts under Project Settings
+3. Click "+"
+4. Select JAR -> Choose "From modules with Dependencies"
+5. Select your Main class
+6. Click OK
+7. Click Build -> Build Artifacts
+8. Click Build
 
 ## Submitting your deployed app link
 
-Deploy your project by following the guide above. Ensure your app is uploaded to your GitHub.
+Deploy your project by following the guide above. Submit a link to the ***public*** GitHub repo that contains the JAR file for your Java dictionary application below.

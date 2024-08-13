@@ -1,19 +1,17 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Dictionary Project</span>
+</h1>
 
 ## About
 
-This module focuses on the fundamentals of Java - classes, objects, function, and handling data. 
-The project for this module is the creation of dictionary application that can store dictionary entries and be manipulated by the user. 
-
-## Prerequisites
-
-Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and objects, handle exceptions, and debug in Java. 
+This project focuses on the fundamentals of Java - classes, objects, functions, and handling data. The goal of this project is to create a dictionary application that can store dictionary entries and be manipulated by the user.
 
 ## Content
 
 [Project Journey](./project-journey/README.md)
 
-[Project Requirements](./project-requirements/README.md)
+[Project Requirements](./project-requirements-and-guidance/README.md)
 
 [Project Details](./project-details/README.md)
 
@@ -21,11 +19,17 @@ Students should be able to use variables and collections, manage user input, wri
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
-[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
 
-[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1zvltopgi4TS0ihJu8-0Nzcqk1BRykMWYRbEteh32-Q0/edit?usp=sharing)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1PJYKRzqvlUdkDVf5Ls1r-iNEOIMCapbeRBZWKdOsEcI/edit)
 
-## Internal resources
+## Internal
+
+### Prerequisites
+
+Students should be able to use variables and collections, manage user input, write functions, use control flow, create classes and objects, handle exceptions, and debug in Java.
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
