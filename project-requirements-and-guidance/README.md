@@ -36,7 +36,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### Additional MVP requirements
 
-> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill at least four of the below requirements.
 
 Additionally, you must implement at least four of the features from the following list in your application:
 
