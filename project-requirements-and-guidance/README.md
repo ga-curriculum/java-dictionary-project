@@ -32,7 +32,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - When an existing word is deleted, the app removes the word and its definition data from the data file.
 - When launched, the app loads the data file containing the word information into memory.
 - Unit tests should exist for each piece of functionality present in the app.
-- The GitHub repo contains a runnable JAR file that allows users to download and use the project.
+- The GitHub repo for the project contains a runnable JAR file that allows users to download and run the project.
 - You are shown as the only contributor to the project on GitHub.
 
 ### Additional feature requirements
