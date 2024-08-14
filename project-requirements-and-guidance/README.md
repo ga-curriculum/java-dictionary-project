@@ -26,7 +26,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Users can delete a word and its definitions from the dictionary.
 - Users can conduct a search to find a word in the dictionary and display its definition.
 - Users can see a history of past user actions taken in the app.
-- Users can gracefully close the application.
+- Users can gracefully close the application using a quit option present in the app's menu.
 - When a word is added to the dictionary, the app saves the new word and definition to a data file.
 - When an existing word is updated, the app saves the updated data back to the data file, replacing the old data.
 - When an existing word is deleted, the app removes the word and its definition data from the data file.
