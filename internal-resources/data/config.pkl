@@ -20,6 +20,16 @@ courses {
   // ! Projects are typically not delivered through a canvas landing page
   // ! meaning "fallback" is the default view most students will see.
   new {
+    name = "jda"
+    microlessons {
+      mls.projectJourney
+      mls.projectRequirementsAndGuidance
+      mls.projectGitHubRepoLinkDeliverable
+      mls.projectDeployedAppLinkDeliverable
+      mls.projectRequirementsPdf
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
