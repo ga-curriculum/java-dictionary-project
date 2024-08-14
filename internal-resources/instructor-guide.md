@@ -30,6 +30,12 @@ You may also want to make additions, such as:
 
 When making additions, avoid overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
 
+## Project-specific notes
+
+Students have the opportunity to customize their projects by implementing four of the features in the **Additional feature requirements** section of the [Project Requirements](../project-requirements-and-guidance/README.md). Feel free to add more features to this list if you want to provide more customization opportunities to your students.
+
+[Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md) about the customizations you've made - 
+
 ## Notes for maintainers
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:

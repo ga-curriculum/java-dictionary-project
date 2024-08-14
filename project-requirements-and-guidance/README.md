@@ -35,11 +35,11 @@ A printable version of the project requirements can be found [here](./assets/pro
 - The GitHub repo contains a runnable JAR file that allows users to download and use the project.
 - You are shown as the only contributor to the project on GitHub.
 
-### Additional requirements
+### Additional feature requirements
+
+You must implement at least four of the features from the following list in your application. You can pick any four features you want to implement. If you have time and are up to the challenge, feel free to implement all of these features!
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
-
-Additionally, you must implement at least four of the features from the following list in your application:
 
 - Users can conduct a search to find all the words in the dictionary that start with a given string.
 - Users can conduct a search to find all the words in the dictionary that end with a given string.
