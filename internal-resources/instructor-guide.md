@@ -20,8 +20,7 @@ You should not add, remove, or alter any project requirements.
 Some existing items already covered in the project brief that you may want to expand on include:
 
 - Some helpful tips to get started.
-- Details on how you will provide project assistance
-- Level Up ideas for students after they have completed their projects.
+- Details on how you will provide project assistance.
 
 You may also want to make additions, such as:
 
@@ -35,7 +34,7 @@ When making additions, avoid overwhelming students with irrelevant or unhelpful 
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1PJYKRzqvlUdkDVf5Ls1r-iNEOIMCapbeRBZWKdOsEcI/edit?gid=696206981#gid=696206981).
+- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1PJYKRzqvlUdkDVf5Ls1r-iNEOIMCapbeRBZWKdOsEcI/edit).
 - [Project Requirements PDF](../project-requirements-and-guidance/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements-and-guidance/README.md).
 - All Java Dictionary Project rubrics in Canvas.

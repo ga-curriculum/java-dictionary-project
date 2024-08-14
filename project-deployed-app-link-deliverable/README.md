@@ -9,7 +9,7 @@ When you've completed your project, you'll deploy it so that others can download
 
 ## Guide
 
-How to create a JAR file with IntelliJ Idea:
+How to create a JAR file with IntelliJ IDEA:
 
 1. Click File -> Project Structure
 2. Navigate to Artifacts under Project Settings
@@ -22,4 +22,4 @@ How to create a JAR file with IntelliJ Idea:
 
 ## Submitting your deployed app link
 
-Deploy your project by following the guide above. Submit a link to the ***public*** GitHub repo that contains the JAR file for your Java dictionary application below.
+Deploy your project by following the guide above. Submit a link to the ***public*** GitHub repo that contains the JAR file for this project below.

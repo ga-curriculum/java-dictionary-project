@@ -9,11 +9,11 @@ You'll need to submit some key deliverables along the way to keep you on track. 
 
 ## 1. Project info
 
-Before you start planning, review the [project requirements](../project-requirements-and-guidance/README.md) to understand what features you must implement in your project. This document also includes helpful tips for getting started.
+Before you start planning, review the [Project Requirements and Guidance](../project-requirements-and-guidance/README.md) to understand what features you must implement in your project. This document also includes helpful tips for getting started.
 
 ## 2. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. For more details, see the [Java Dictionary Application GitHub link](../project-github-repo-link-deliverable/README.md).
+Once your project proposal is approved, create the public GitHub repo that you'll use for the project. For more details, see the [Project GitHub Repo Link Deliverable](../project-github-repo-link-deliverable/README.md).
 
 ## 3. Build the project
 
@@ -21,8 +21,8 @@ The fun part! Start building your project! The printable [project requirements P
 
 ## 4. Deploy your completed project
 
-After you've finished the project, you'll share a JAR file to GitHub so others can download and use your project easily. See the [Java Dictionary Application deployment](../project-deployed-app-link-deliverable/README.md) for more details.
+After you've finished the project, you'll share a JAR file to GitHub so others can download and use your project easily. See the [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md) for more details.
 
 ## 5. Submit a link to your completed project
 
-Submit a link to your project's JAR file on GitHub. For more details, See the [Java Dictionary Application deployment](../project-deployed-app-link-deliverable/README.md).
+Submit a link to your project's JAR file on GitHub. For more details, See the [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md).

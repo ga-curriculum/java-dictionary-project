@@ -34,7 +34,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - Unit tests should exist for each piece of functionality present in the app.
 - The GitHub repo contains a runnable JAR file that allows users to download and use the project.
 
-## Additional MVP requirements
+### Additional MVP requirements
 
 > ✅ More than three items marked incomplete in this section will result in the project receiving a failing grade. If three or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
@@ -67,7 +67,7 @@ Additionally, you must implement at least four of the features from the followin
 - The GitHub repository used for the project must be named appropriately. For example, names like dictionary-application or wellness-tracker are appropriate, whereas ga-project is not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
 - Commit messages should be descriptive of the work done in that commit.
 
-## README requirements
+### README requirements
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your project's README must contain the items or sections below.
 
@@ -79,7 +79,9 @@ Additionally, you must implement at least four of the features from the followin
 
 ## Evaluation
 
-Your instructional team will evaluate your project after the project's due date. Your instructors will use the above guidelines to determine whether or not your project meets all of the minimum requirements. If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
+Your instructional team will evaluate your project after the project's due date. Your instructors will use the above guidelines to determine whether or not your project meets all of the minimum requirements.
+
+If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
 
 ## Guidance
 
@@ -89,8 +91,7 @@ Here are some quick tips to get your project started:
 
 - Discuss your app idea with an instructor to get feedback before you dive too deep into planning.
 - ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to an app without polish.
-- Theme your app to give it a personal touch.
-- Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
+- Prioritize and implement functionality step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
 - Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../assets/project-requirements.pdf).
 - Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
 
