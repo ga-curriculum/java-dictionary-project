@@ -19,7 +19,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### MVP (Minimum Viable Product)
 
-> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade. Your app must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
 - Users can add new words and definitions to the dictionary.
 - Users can update the definition of a word in the dictionary.
@@ -36,7 +36,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ### Additional MVP requirements
 
-> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill at least four of the below requirements.
+> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
 Additionally, you must implement at least four of the features from the following list in your application:
 
@@ -49,7 +49,7 @@ Additionally, you must implement at least four of the features from the followin
 
 ### Code convention and UI/UX
 
-> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
 - The files in the app are organized following the conventions demonstrated in lectures.
 - The code in the app adheres to coding conventions demonstrated in lectures, like using plural names for arrays.
@@ -61,7 +61,7 @@ Additionally, you must implement at least four of the features from the followin
 
 ### Git and GitHub
 
-> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade. Your interactions with Git and GitHub must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
 - You are shown as the only contributor to the project on GitHub.
 - The GitHub repository used for the project must be named appropriately. For example, names like dictionary-application or wellness-tracker are appropriate, whereas ga-project is not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
@@ -69,7 +69,7 @@ Additionally, you must implement at least four of the features from the followin
 
 ### README requirements
 
-> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade. If two or fewer items are marked incomplete, the project is considered passing. Your project's README must contain the items or sections below.
+> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
 - The app's name.
 - A brief description of your app and its functionality.
