@@ -17,7 +17,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ## Technical requirements
 
-### MVP (Minimum Viable Product)
+### Minimum requirements
 
 > ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
@@ -33,8 +33,9 @@ A printable version of the project requirements can be found [here](./assets/pro
 - When launched, the app loads the data file containing the word information into memory.
 - Unit tests should exist for each piece of functionality present in the app.
 - The GitHub repo contains a runnable JAR file that allows users to download and use the project.
+- You are shown as the only contributor to the project on GitHub.
 
-### Additional MVP requirements
+### Additional requirements
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
@@ -58,14 +59,6 @@ Additionally, you must implement at least four of the features from the followin
 - The app can be used without encountering errors and handles errors using the conventions demonstrated in lectures.
 - The app is coded using proper indentation.
 - The app's menu is easily navigable by a first-time user.
-
-### Git and GitHub
-
-> ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
-
-- You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project must be named appropriately. For example, names like dictionary-application or wellness-tracker are appropriate, whereas ga-project is not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure it is public.***
-- Commit messages should be descriptive of the work done in that commit.
 
 ### README requirements
 
