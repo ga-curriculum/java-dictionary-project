@@ -48,7 +48,7 @@ Additionally, you must implement at least four of the features from the followin
 - Users can add additional definitions (secondary, tertiary, etc.) to a word in the dictionary.
 - Users can see an alphabetically sorted list of all the words in the dictionary.
 
-### Code convention and UI/UX
+### Code convention and UI/UX requirements
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
