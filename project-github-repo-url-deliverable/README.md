@@ -1,12 +1,12 @@
 <h1>
   <span class="headline">Java Dictionary Project</span>
-  <span class="subhead">Project GitHub Repo Link Deliverable</span>
+  <span class="subhead">Project GitHub Repo URL Deliverable</span>
 </h1>
 
 ## Introduction
 
 Set up a ***public*** GitHub repo that you'll use for your project.
 
-## Submitting your GitHub repo link
+## Submitting your GitHub repo URL
 
-Submit a link to the ***public*** GitHub repo that you are using for this project below.
+Submit the URL for the ***public*** GitHub repo that you are using for this project below.

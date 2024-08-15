@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Java Dictionary Project</span>
-  <span class="subhead">Project Deployed App Link Deliverable</span>
+  <span class="subhead">Project Deployed App URL Deliverable</span>
 </h1>
 
 ## Introduction
@@ -20,6 +20,6 @@ How to create a JAR file with IntelliJ IDEA:
 7. Click Build -> Build Artifacts
 8. Click Build
 
-## Submitting your deployed app link
+## Submitting your deployed app URL
 
-Deploy your project by following the guide above. Submit a link to the ***public*** GitHub repo that contains the JAR file for this project below.
+Deploy your project by following the guide above. Submit the URL for the ***public*** GitHub repo that contains the JAR file for this project below.
