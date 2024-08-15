@@ -13,9 +13,9 @@ This project focuses on the fundamentals of Java - classes, objects, functions, 
 
 [Project Requirements and Guidance](./project-requirements-and-guidance/README.md)
 
-[Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
+[Project GitHub Repo URL Deliverable](./project-github-repo-url-deliverable/README.md)
 
-[Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
+[Project Deployed App URL Deliverable](./project-deployed-app-url-deliverable/README.md)
 
 [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
 

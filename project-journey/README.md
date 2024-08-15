@@ -13,7 +13,7 @@ Before you start planning, review the [Project Requirements and Guidance](../pro
 
 ## 2. Create a GitHub repo
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. For more details, see the [Project GitHub Repo Link Deliverable](../project-github-repo-link-deliverable/README.md).
+Once your project proposal is approved, create the public GitHub repo that you'll use for the project. For more details, see the [Project GitHub Repo URL Deliverable](../project-github-repo-url-deliverable/README.md).
 
 ## 3. Build the project
 
@@ -21,8 +21,8 @@ The fun part! Start building your project! The printable [project requirements P
 
 ## 4. Deploy your completed project
 
-After you've finished the project, you'll share a JAR file to GitHub so others can download and use your project easily. See the [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md) for more details.
+After you've finished the project, you'll share a JAR file to GitHub so others can download and use your project easily. See the [Project Deployed App URL Deliverable](../project-deployed-app-url-deliverable/README.md) for more details.
 
-## 5. Submit a link to your completed project
+## 5. Submit a URL to your completed project
 
-Submit a link to your project's JAR file on GitHub. For more details, See the [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md).
+Submit the URL for your the GitHub repo containing your project's JAR file. For more details, See the [Project Deployed App URL Deliverable](../project-deployed-app-url-deliverable/README.md).

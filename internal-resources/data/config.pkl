@@ -24,8 +24,8 @@ courses {
     microlessons {
       mls.projectJourney
       mls.projectRequirementsAndGuidance
-      mls.projectGitHubRepoLinkDeliverable
-      mls.projectDeployedAppLinkDeliverable
+      mls.projectGitHubRepoUrlDeliverable
+      mls.projectDeployedAppUrlDeliverable
       mls.projectRequirementsPdf
     }
   }
@@ -36,8 +36,8 @@ courses {
       // add microlessons here, in the order they should be delivered
       mls.projectJourney
       mls.projectRequirementsAndGuidance
-      mls.projectGitHubRepoLinkDeliverable
-      mls.projectDeployedAppLinkDeliverable
+      mls.projectGitHubRepoUrlDeliverable
+      mls.projectDeployedAppUrlDeliverable
       mls.projectRequirementsPdf
     }
   }

@@ -9,8 +9,8 @@ This is the repo for an individual Java Dictionary Project. It includes:
 
 - Java Dictionary Project Journey
 - Java Dictionary Project Requirements and Guidance
-- Java Dictionary Project GitHub Repo Link Deliverable
-- Java Dictionary Project GitHub Repo Link Deliverable
+- Java Dictionary Project GitHub Repo URL Deliverable
+- Java Dictionary Project GitHub Repo URL Deliverable
 - Java Dictionary Project Feedback [in Canvas only]
 
 ## Customizing your project delivery
